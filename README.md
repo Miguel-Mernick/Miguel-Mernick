@@ -1,11 +1,17 @@
-Olá! Eu sou um estudante de desenvolvimento de sistemas no SENAI, No meu tempo livre, eu gosto de jogar no computador e no videogame, e também adoro jogar basquete.
-
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Mernick&show_icons=true&theme=dracula)
-
-[![yt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
-[![JOGADOR DE FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)]
-[![JOGADOR DE VALORANT](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]
-[![JOGADOR DE GTAV](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]
-[![TW](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]
-[![JOGADOR DE FORTNITE](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]
-[![JOGADOR DE CS](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]
+<div align="center">
+    <h3>Hi 👋, I'm <a href="https://longtao.fun">Miguel</a></h3>
+ <p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_PTBR.md"><span>Português</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_TR.md"><span>Türkçe</span></a>
+    </p>
+    <p>🌟 Seja bem vindo ao meu cantinho no mundo da programação! 🌟</p>
