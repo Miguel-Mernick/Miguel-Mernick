@@ -1,8 +1,8 @@
 <div align="center">
-    <h3>Hi 👋, I'm <a href="https://longtao.fun">Miguel</a></h3>
+    <h3>Hi 👋, I'm <a href="https://github.com/Miguel-Mernick">Miguel</a></h3>
  <p align="center">
         <a href="https://github.com/Miguel-Mernick">
-            <img src="cat.webp" width="50"/>
+            <img src="cat.web" width="50"/>
         </a>
     </p>
     <p align="center">
