@@ -2,7 +2,7 @@
     <h3>Hi 👋, I'm <a href="https://github.com/Miguel-Mernick">Miguel</a></h3>
     <p align="center">
         <a href="https://github.com/Miguel-Mernick">
-            <img src="https://example.com/path-to-your-image/cat.webp" width="50" alt="Miguel's Profile"/>
+            <img src="https://raw.githubusercontent.com/Miguel-Mernick/Miguel-Mernick/main/cat.webp" width="50" alt="Miguel's Profile"/>
         </a>
     </p>
     <p align="center">
