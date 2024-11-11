@@ -14,4 +14,4 @@
         <a href="https://github.com/Miguel-Mernick/Miguel-Mernick/blob/main/README_FR.md"><span>Français</span></a> |
         <a href="https://github.com/Miguel-Mernick/Miguel-Mernick/blob/main/README_TR.md"><span>Türkçe</span></a>
     </p>
-    <p>🌟 Seja bem-vindo ao meu cantinho no mundo da programação! 🌟</p>
+    <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
